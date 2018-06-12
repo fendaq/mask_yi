@@ -1,0 +1,10 @@
+data/*
+.idea/*
+myTset.py
+tu.jpg
+tu2.jpg
+pre_trained_weights/*
+cocodata/*
+input/__pycache__/*
+*/__pycache__/*
+__pycache__/*
